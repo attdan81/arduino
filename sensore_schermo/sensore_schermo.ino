@@ -90,7 +90,7 @@ void loop(){
   String sH2=String(h2);
   tft.println("Temperatura2: " + sT2);
   tft.println("Umidita aria2: "+sH2);  
-  delay(2000); 
+  delay(5000); 
 }
 
 
